@@ -1,0 +1,1 @@
+Here you should put all the words you want to test yourself on, separated by spaces. e.g. 'der die das'. The program will then make flashcards where these words are covered. 
