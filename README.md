@@ -5,7 +5,7 @@ Usage instructions:
 
 a) Fill the file 'exSents.txt' with example sentences, in the form '[LANGUAGE YOU'RE STUDYING]  [LANGUAGE YOU SPEAK]' separated by linebreaks (the space should be a tab.
 
-b) Fill the file 'wordlist.txt' with the words you want to test yourself on. For example, I made a German flashcard conjugation tool (https://ankiweb.net/decks/share/1768148642497).
+b) Fill the file 'wordlist.txt' with the words you want to test yourself on. For example, I made a German flashcard conjugation tool (https://ankiweb.net/shared/info/1735843824?cb=1771855226779).
 
 c) Run 'flashcardmaker.py' through your terminal. Your finished deck will appear as 'deck.txt'.
 
