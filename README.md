@@ -2,6 +2,7 @@
 Simple automated software for turning a list of example sentences into Cloze flashcards for Anki.
 
 Usage instructions:
+
 a) Fill the file 'exSents.txt' with example sentences, in the form '[LANGUAGE YOU'RE STUDYING]  [LANGUAGE YOU SPEAK]' separated by linebreaks (the space should be a tab.
 
 b) Fill the file 'wordlist.txt' with the words you want to test yourself on. For example, I made a German flashcard conjugation tool (https://ankiweb.net/decks/share/1768148642497).
