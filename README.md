@@ -7,7 +7,7 @@ a) Fill the file 'exSents.txt' with example sentences, in the form '[LANGUAGE YO
 
 b) Fill the file 'wordlist.txt' with the words you want to test yourself on. For example, I made a German flashcard conjugation tool (https://ankiweb.net/decks/share/1768148642497).
 
-c) Run the program through your terminal. Your finished deck will appear as 'deck.txt'.
+c) Run 'flashcardmaker.py' through your terminal. Your finished deck will appear as 'deck.txt'.
 
 d) Make a new note type in Anki, with slots 'incompletesentence', 'fullsentence', 'translation', 'missingword' and maybe 'notes' if you want to provide context clues.
 
